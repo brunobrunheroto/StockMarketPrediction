@@ -1,6 +1,6 @@
 # Stock Market Prediction
 
-<p>Stock Market Prediction is a project done to investigate which machine learning models can be used to predict stock market prices.</p>
+<p>Stock Market Prediction is a project done to investigate which machine learning models that can be used to predict stock market prices.</p>
 
 ## <ins>Goals</ins>
 
